@@ -1,2 +1,2 @@
-# Analysing real world Airbnb data
-to be filled step by step ...
+# Analysing real world Airbnb data and making predictions
+to be filled step by step 
